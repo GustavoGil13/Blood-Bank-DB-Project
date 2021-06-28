@@ -1,0 +1,87 @@
+C:\Users\Legion\OneDrive - Universidade de Aveiro\BD grupo\BD projeto\Projeto-BD\bin\Debug\net5.0-windows\Projeto-BD.exe
+C:\Users\Legion\OneDrive - Universidade de Aveiro\BD grupo\BD projeto\Projeto-BD\bin\Debug\net5.0-windows\Projeto-BD.deps.json
+C:\Users\Legion\OneDrive - Universidade de Aveiro\BD grupo\BD projeto\Projeto-BD\bin\Debug\net5.0-windows\Projeto-BD.runtimeconfig.json
+C:\Users\Legion\OneDrive - Universidade de Aveiro\BD grupo\BD projeto\Projeto-BD\bin\Debug\net5.0-windows\Projeto-BD.runtimeconfig.dev.json
+C:\Users\Legion\OneDrive - Universidade de Aveiro\BD grupo\BD projeto\Projeto-BD\bin\Debug\net5.0-windows\Projeto-BD.dll
+C:\Users\Legion\OneDrive - Universidade de Aveiro\BD grupo\BD projeto\Projeto-BD\bin\Debug\net5.0-windows\ref\Projeto-BD.dll
+C:\Users\Legion\OneDrive - Universidade de Aveiro\BD grupo\BD projeto\Projeto-BD\bin\Debug\net5.0-windows\Projeto-BD.pdb
+C:\Users\Legion\OneDrive - Universidade de Aveiro\BD grupo\BD projeto\Projeto-BD\obj\Debug\net5.0-windows\Projeto-BD.vbprojAssemblyReference.cache
+C:\Users\Legion\OneDrive - Universidade de Aveiro\BD grupo\BD projeto\Projeto-BD\obj\Debug\net5.0-windows\Projeto_BD.Form1.resources
+C:\Users\Legion\OneDrive - Universidade de Aveiro\BD grupo\BD projeto\Projeto-BD\obj\Debug\net5.0-windows\Projeto_BD.Form2.resources
+C:\Users\Legion\OneDrive - Universidade de Aveiro\BD grupo\BD projeto\Projeto-BD\obj\Debug\net5.0-windows\Projeto-BD.vbproj.GenerateResource.cache
+C:\Users\Legion\OneDrive - Universidade de Aveiro\BD grupo\BD projeto\Projeto-BD\obj\Debug\net5.0-windows\Projeto-BD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Legion\OneDrive - Universidade de Aveiro\BD grupo\BD projeto\Projeto-BD\obj\Debug\net5.0-windows\Projeto-BD.AssemblyInfoInputs.cache
+C:\Users\Legion\OneDrive - Universidade de Aveiro\BD grupo\BD projeto\Projeto-BD\obj\Debug\net5.0-windows\Projeto-BD.AssemblyInfo.vb
+C:\Users\Legion\OneDrive - Universidade de Aveiro\BD grupo\BD projeto\Projeto-BD\obj\Debug\net5.0-windows\Projeto-BD.vbproj.CoreCompileInputs.cache
+C:\Users\Legion\OneDrive - Universidade de Aveiro\BD grupo\BD projeto\Projeto-BD\obj\Debug\net5.0-windows\Projeto-BD.dll
+C:\Users\Legion\OneDrive - Universidade de Aveiro\BD grupo\BD projeto\Projeto-BD\obj\Debug\net5.0-windows\ref\Projeto-BD.dll
+C:\Users\Legion\OneDrive - Universidade de Aveiro\BD grupo\BD projeto\Projeto-BD\obj\Debug\net5.0-windows\Projeto-BD.pdb
+C:\Users\Legion\OneDrive - Universidade de Aveiro\BD grupo\BD projeto\Projeto-BD\obj\Debug\net5.0-windows\Projeto-BD.genruntimeconfig.cache
+C:\Users\Legion\OneDrive - Universidade de Aveiro\BD grupo\BD projeto\Projeto-BD\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\Legion\OneDrive - Universidade de Aveiro\BD grupo\BD projeto\Projeto-BD\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Legion\OneDrive - Universidade de Aveiro\BD grupo\BD projeto\Projeto-BD\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Legion\OneDrive - Universidade de Aveiro\BD grupo\BD projeto\Projeto-BD\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Legion\OneDrive - Universidade de Aveiro\BD grupo\BD projeto\Projeto-BD\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Legion\OneDrive - Universidade de Aveiro\BD grupo\BD projeto\Projeto-BD\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Legion\OneDrive - Universidade de Aveiro\BD grupo\BD projeto\Projeto-BD\obj\Debug\net5.0-windows\Projeto-BD.vbproj.CopyComplete
+C:\Users\Legion\OneDrive - Universidade de Aveiro\BD grupo\BD projeto\Projeto-BD\obj\Debug\net5.0-windows\Projeto_BD.Form3.resources
+C:\Users\Legion\OneDrive - Universidade de Aveiro\BD grupo\BD projeto\Projeto-BD\obj\Debug\net5.0-windows\Projeto_BD.Form4.resources
+C:\Users\Legion\OneDrive - Universidade de Aveiro\BD grupo\BD projeto\Projeto-BD\obj\Debug\net5.0-windows\Projeto_BD.Form5.resources
+D:\TIAGO\UA\OneDrive - Universidade de Aveiro\Ano 3\2º Semestre\BD\BD Grupo\Projeto-BD\bin\Debug\net5.0-windows\Projeto-BD.exe
+D:\TIAGO\UA\OneDrive - Universidade de Aveiro\Ano 3\2º Semestre\BD\BD Grupo\Projeto-BD\bin\Debug\net5.0-windows\Projeto-BD.deps.json
+D:\TIAGO\UA\OneDrive - Universidade de Aveiro\Ano 3\2º Semestre\BD\BD Grupo\Projeto-BD\bin\Debug\net5.0-windows\Projeto-BD.runtimeconfig.json
+D:\TIAGO\UA\OneDrive - Universidade de Aveiro\Ano 3\2º Semestre\BD\BD Grupo\Projeto-BD\bin\Debug\net5.0-windows\Projeto-BD.runtimeconfig.dev.json
+D:\TIAGO\UA\OneDrive - Universidade de Aveiro\Ano 3\2º Semestre\BD\BD Grupo\Projeto-BD\bin\Debug\net5.0-windows\Projeto-BD.dll
+D:\TIAGO\UA\OneDrive - Universidade de Aveiro\Ano 3\2º Semestre\BD\BD Grupo\Projeto-BD\bin\Debug\net5.0-windows\ref\Projeto-BD.dll
+D:\TIAGO\UA\OneDrive - Universidade de Aveiro\Ano 3\2º Semestre\BD\BD Grupo\Projeto-BD\bin\Debug\net5.0-windows\Projeto-BD.pdb
+D:\TIAGO\UA\OneDrive - Universidade de Aveiro\Ano 3\2º Semestre\BD\BD Grupo\Projeto-BD\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+D:\TIAGO\UA\OneDrive - Universidade de Aveiro\Ano 3\2º Semestre\BD\BD Grupo\Projeto-BD\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+D:\TIAGO\UA\OneDrive - Universidade de Aveiro\Ano 3\2º Semestre\BD\BD Grupo\Projeto-BD\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+D:\TIAGO\UA\OneDrive - Universidade de Aveiro\Ano 3\2º Semestre\BD\BD Grupo\Projeto-BD\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+D:\TIAGO\UA\OneDrive - Universidade de Aveiro\Ano 3\2º Semestre\BD\BD Grupo\Projeto-BD\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\TIAGO\UA\OneDrive - Universidade de Aveiro\Ano 3\2º Semestre\BD\BD Grupo\Projeto-BD\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\TIAGO\UA\OneDrive - Universidade de Aveiro\Ano 3\2º Semestre\BD\BD Grupo\Projeto-BD\obj\Debug\net5.0-windows\Projeto-BD.vbprojAssemblyReference.cache
+D:\TIAGO\UA\OneDrive - Universidade de Aveiro\Ano 3\2º Semestre\BD\BD Grupo\Projeto-BD\obj\Debug\net5.0-windows\Projeto_BD.Form1.resources
+D:\TIAGO\UA\OneDrive - Universidade de Aveiro\Ano 3\2º Semestre\BD\BD Grupo\Projeto-BD\obj\Debug\net5.0-windows\Projeto_BD.Form2.resources
+D:\TIAGO\UA\OneDrive - Universidade de Aveiro\Ano 3\2º Semestre\BD\BD Grupo\Projeto-BD\obj\Debug\net5.0-windows\Projeto_BD.Form3.resources
+D:\TIAGO\UA\OneDrive - Universidade de Aveiro\Ano 3\2º Semestre\BD\BD Grupo\Projeto-BD\obj\Debug\net5.0-windows\Projeto_BD.Form4.resources
+D:\TIAGO\UA\OneDrive - Universidade de Aveiro\Ano 3\2º Semestre\BD\BD Grupo\Projeto-BD\obj\Debug\net5.0-windows\Projeto_BD.Form5.resources
+D:\TIAGO\UA\OneDrive - Universidade de Aveiro\Ano 3\2º Semestre\BD\BD Grupo\Projeto-BD\obj\Debug\net5.0-windows\Projeto-BD.vbproj.GenerateResource.cache
+D:\TIAGO\UA\OneDrive - Universidade de Aveiro\Ano 3\2º Semestre\BD\BD Grupo\Projeto-BD\obj\Debug\net5.0-windows\Projeto-BD.GeneratedMSBuildEditorConfig.editorconfig
+D:\TIAGO\UA\OneDrive - Universidade de Aveiro\Ano 3\2º Semestre\BD\BD Grupo\Projeto-BD\obj\Debug\net5.0-windows\Projeto-BD.AssemblyInfoInputs.cache
+D:\TIAGO\UA\OneDrive - Universidade de Aveiro\Ano 3\2º Semestre\BD\BD Grupo\Projeto-BD\obj\Debug\net5.0-windows\Projeto-BD.AssemblyInfo.vb
+D:\TIAGO\UA\OneDrive - Universidade de Aveiro\Ano 3\2º Semestre\BD\BD Grupo\Projeto-BD\obj\Debug\net5.0-windows\Projeto-BD.vbproj.CoreCompileInputs.cache
+D:\TIAGO\UA\OneDrive - Universidade de Aveiro\Ano 3\2º Semestre\BD\BD Grupo\Projeto-BD\obj\Debug\net5.0-windows\Projeto-BD.vbproj.CopyComplete
+D:\TIAGO\UA\OneDrive - Universidade de Aveiro\Ano 3\2º Semestre\BD\BD Grupo\Projeto-BD\obj\Debug\net5.0-windows\Projeto-BD.dll
+D:\TIAGO\UA\OneDrive - Universidade de Aveiro\Ano 3\2º Semestre\BD\BD Grupo\Projeto-BD\obj\Debug\net5.0-windows\ref\Projeto-BD.dll
+D:\TIAGO\UA\OneDrive - Universidade de Aveiro\Ano 3\2º Semestre\BD\BD Grupo\Projeto-BD\obj\Debug\net5.0-windows\Projeto-BD.pdb
+D:\TIAGO\UA\OneDrive - Universidade de Aveiro\Ano 3\2º Semestre\BD\BD Grupo\Projeto-BD\obj\Debug\net5.0-windows\Projeto-BD.genruntimeconfig.cache
+C:\Users\Legion\OneDrive - Universidade de Aveiro\BD grupo\BD projeto\Projeto-BD-FINAL\bin\Debug\net5.0-windows\Projeto-BD.exe
+C:\Users\Legion\OneDrive - Universidade de Aveiro\BD grupo\BD projeto\Projeto-BD-FINAL\bin\Debug\net5.0-windows\Projeto-BD.deps.json
+C:\Users\Legion\OneDrive - Universidade de Aveiro\BD grupo\BD projeto\Projeto-BD-FINAL\bin\Debug\net5.0-windows\Projeto-BD.runtimeconfig.json
+C:\Users\Legion\OneDrive - Universidade de Aveiro\BD grupo\BD projeto\Projeto-BD-FINAL\bin\Debug\net5.0-windows\Projeto-BD.runtimeconfig.dev.json
+C:\Users\Legion\OneDrive - Universidade de Aveiro\BD grupo\BD projeto\Projeto-BD-FINAL\bin\Debug\net5.0-windows\Projeto-BD.dll
+C:\Users\Legion\OneDrive - Universidade de Aveiro\BD grupo\BD projeto\Projeto-BD-FINAL\bin\Debug\net5.0-windows\ref\Projeto-BD.dll
+C:\Users\Legion\OneDrive - Universidade de Aveiro\BD grupo\BD projeto\Projeto-BD-FINAL\bin\Debug\net5.0-windows\Projeto-BD.pdb
+C:\Users\Legion\OneDrive - Universidade de Aveiro\BD grupo\BD projeto\Projeto-BD-FINAL\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\Legion\OneDrive - Universidade de Aveiro\BD grupo\BD projeto\Projeto-BD-FINAL\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Legion\OneDrive - Universidade de Aveiro\BD grupo\BD projeto\Projeto-BD-FINAL\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Legion\OneDrive - Universidade de Aveiro\BD grupo\BD projeto\Projeto-BD-FINAL\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Legion\OneDrive - Universidade de Aveiro\BD grupo\BD projeto\Projeto-BD-FINAL\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Legion\OneDrive - Universidade de Aveiro\BD grupo\BD projeto\Projeto-BD-FINAL\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Legion\OneDrive - Universidade de Aveiro\BD grupo\BD projeto\Projeto-BD-FINAL\obj\Debug\net5.0-windows\Projeto-BD.vbprojAssemblyReference.cache
+C:\Users\Legion\OneDrive - Universidade de Aveiro\BD grupo\BD projeto\Projeto-BD-FINAL\obj\Debug\net5.0-windows\Projeto_BD.Form1.resources
+C:\Users\Legion\OneDrive - Universidade de Aveiro\BD grupo\BD projeto\Projeto-BD-FINAL\obj\Debug\net5.0-windows\Projeto_BD.Form2.resources
+C:\Users\Legion\OneDrive - Universidade de Aveiro\BD grupo\BD projeto\Projeto-BD-FINAL\obj\Debug\net5.0-windows\Projeto_BD.Form3.resources
+C:\Users\Legion\OneDrive - Universidade de Aveiro\BD grupo\BD projeto\Projeto-BD-FINAL\obj\Debug\net5.0-windows\Projeto_BD.Form4.resources
+C:\Users\Legion\OneDrive - Universidade de Aveiro\BD grupo\BD projeto\Projeto-BD-FINAL\obj\Debug\net5.0-windows\Projeto_BD.Form5.resources
+C:\Users\Legion\OneDrive - Universidade de Aveiro\BD grupo\BD projeto\Projeto-BD-FINAL\obj\Debug\net5.0-windows\Projeto-BD.vbproj.GenerateResource.cache
+C:\Users\Legion\OneDrive - Universidade de Aveiro\BD grupo\BD projeto\Projeto-BD-FINAL\obj\Debug\net5.0-windows\Projeto-BD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Legion\OneDrive - Universidade de Aveiro\BD grupo\BD projeto\Projeto-BD-FINAL\obj\Debug\net5.0-windows\Projeto-BD.AssemblyInfoInputs.cache
+C:\Users\Legion\OneDrive - Universidade de Aveiro\BD grupo\BD projeto\Projeto-BD-FINAL\obj\Debug\net5.0-windows\Projeto-BD.AssemblyInfo.vb
+C:\Users\Legion\OneDrive - Universidade de Aveiro\BD grupo\BD projeto\Projeto-BD-FINAL\obj\Debug\net5.0-windows\Projeto-BD.vbproj.CoreCompileInputs.cache
+C:\Users\Legion\OneDrive - Universidade de Aveiro\BD grupo\BD projeto\Projeto-BD-FINAL\obj\Debug\net5.0-windows\Projeto-BD.vbproj.CopyComplete
+C:\Users\Legion\OneDrive - Universidade de Aveiro\BD grupo\BD projeto\Projeto-BD-FINAL\obj\Debug\net5.0-windows\Projeto-BD.dll
+C:\Users\Legion\OneDrive - Universidade de Aveiro\BD grupo\BD projeto\Projeto-BD-FINAL\obj\Debug\net5.0-windows\ref\Projeto-BD.dll
+C:\Users\Legion\OneDrive - Universidade de Aveiro\BD grupo\BD projeto\Projeto-BD-FINAL\obj\Debug\net5.0-windows\Projeto-BD.pdb
+C:\Users\Legion\OneDrive - Universidade de Aveiro\BD grupo\BD projeto\Projeto-BD-FINAL\obj\Debug\net5.0-windows\Projeto-BD.genruntimeconfig.cache
